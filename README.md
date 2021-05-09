@@ -45,7 +45,7 @@ $ python main.py -i img_original.jpg -n 100 -m add -o img_ampliada.jpg
 
 ## License
 
-Basado en la documentación de Antonio Tabernero Galán departamento de Lenguajes y Sistemas Informáticos e Ingeniería de Software, Escuela Técnica Superior de Ingenieros Informáticos, Universidad Politécnica de Madrid.
+Basado en la documentación de Antonio Tabernero Galán, departamento de Lenguajes y Sistemas Informáticos e Ingeniería de Software, Escuela Técnica Superior de Ingenieros Informáticos, Universidad Politécnica de Madrid.
 
 ## License
 
