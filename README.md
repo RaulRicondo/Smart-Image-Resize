@@ -45,7 +45,7 @@ $ python main.py -i img_original.jpg -n 100 -m add -o img_ampliada.jpg
 
 ## Referencias
 
-Basado en la documentación de Antonio Tabernero Galán, departamento de Lenguajes y Sistemas Informáticos e Ingeniería de Software, Escuela Técnica Superior de Ingenieros Informáticos, Universidad Politécnica de Madrid.
+Basado en una práctica propuesta en la asignatura Fotografía Computacional por Antonio Tabernero Galán, departamento de Lenguajes y Sistemas Informáticos e Ingeniería de Software, ETSIINF, UPM. El trabajo original puede encontrarse [aquí](https://faculty.idc.ac.il/arik/SCWeb/imret/).
 
 ## License
 
